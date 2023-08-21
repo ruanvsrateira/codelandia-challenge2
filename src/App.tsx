@@ -1,7 +1,7 @@
 import "./styles/global.scss";
 
 function App() {
-  return <div>App</div>;
+  return <h1 className="font-montSerrat">Aplicação</h1>;
 }
 
 export default App;
